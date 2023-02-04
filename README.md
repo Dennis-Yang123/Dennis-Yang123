@@ -1,2 +1,5 @@
 # About 
-I am a recent Mathematics graduate from the University of Essex with an interest in becoming a Data Scientist. I have recently gone through the *[AiCore](https://www.theaicore.com)* Data Science accelerator program and have completed several industry grade projects throughout inculding training and evaluating several different machine learning models including neural networks.
+A recent Mathematics graduate from the University of Essex with a passion for data and a drive for results. 
+Discovered an interest for Data Science and demonstrated strong analytical skills through the completion of a Data 
+Visualisation module. Further honed my expertise through completing the Data Science accelerator program at 
+*[AiCore](https://www.theaicore.com/)*, producing industry-standard projects. Possesses a keen interest in Data Science and a motivation to excel
